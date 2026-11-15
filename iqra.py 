@@ -1,4 +1,4 @@
-
+hi
 # ==========================================
 # IOT LAB ASSIGNMENT
 # Topic: Object-Oriented Programming (OOP)
@@ -129,3 +129,50 @@ account1.deposit(2000)
 account1.withdraw(1000)
 
 account1.display_balance()
+
+# IOT Lab Assignment
+
+## Object-Oriented Programming (Python)
+
+This repository contains four Python programs based on
+Object-Oriented Programming (OOP).
+
+### Questions
+
+1. Car Class
+   - Brand and color attributes
+   - start() method
+   - Creating an object
+
+2. Book Class
+   - Title and author attributes
+   - display_info() method
+   - Creating three book objects
+
+3. Calculator Class
+   - Two number attributes
+   - Addition
+   - Subtraction
+   - Multiplication
+   - Division
+
+4. BankAccount Class
+   - Account holder and balance
+   - Deposit money
+   - Withdraw money
+   - Display balance
+
+## Language
+Python 3
+
+## Concepts Used
+- Classes
+- Objects
+- Attributes
+- Constructors (__init__)
+- Methods
+- Object-Oriented Programming
+
+## Author
+Iqra
+
